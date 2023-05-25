@@ -1,0 +1,40 @@
+[
+  {
+    "Name": "Ava",
+    "Role": "SSE",
+    "Company": "Cognizant",
+    "Location": "Pune",
+    "Skills": [
+      {
+        "Skill": "java",
+        "SkillExp": "2years"
+      },
+      {
+        "Skill": "aws",
+        "SkillExp": "3years"
+      },
+      {
+        "Skill": "sap",
+        "SkillExp": "1years"
+      }
+    ],
+    "courses": null
+  },
+  {
+    "Name": "ted",
+    "Role": "SSE",
+    "Company": "IBM",
+    "Location": "Delhi",
+    "Skills": null,
+    "Courses": [
+      {
+        "Course": "HTML",
+        "CourseExp": "1years"
+      },
+      {
+        "Course": "Java Script",
+        "CourseExp": "2years"
+      }
+    ]
+  }
+]
